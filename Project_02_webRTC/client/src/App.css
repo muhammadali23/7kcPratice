@@ -1,0 +1,28 @@
+.HomePage_Container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.HomePage_Container .Inputs_Container input{
+  font-size: 24px;
+  display: block;
+  padding: 10px 20px;
+  margin: 10px;
+  border-radius: 12px;
+  border: 1px solid black;
+  text-align: center;
+}
+.HomePage_Container .Inputs_Container button{
+  display: block;
+  font-size: 24px; 
+  width: 100%;
+  padding: 10px 20px;
+  border-radius: 12px;
+  border: 1px solid black;
+  cursor: pointer;
+  
+}
+
